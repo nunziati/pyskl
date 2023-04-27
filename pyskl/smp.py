@@ -24,7 +24,8 @@ from multiprocessing import Pool, current_process
 from tqdm import tqdm
 
 try:
-    import decord
+    # import decord
+    pass
 except ImportError:
     pass
 
